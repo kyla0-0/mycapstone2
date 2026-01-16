@@ -14,6 +14,7 @@
 
 .fontFam {
     font-family: 'Trebuchet MS';
+    font-style: italic;
 }
 
 .underline {
@@ -21,8 +22,13 @@
 }
 
 span {
-    background: rgb(241, 250, 114);
+    background: rgb(255, 247, 0);
 }
+
+#fade {
+    opacity: 50%;
+}
+
 body {
     background: url(https://static.vecteezy.com/system/resources/previews/003/478/190/original/seamless-pattern-of-silver-snowflakes-vector.jpg);
 }
