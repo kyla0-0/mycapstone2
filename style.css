@@ -1,24 +1,33 @@
-.redBorder {
+.redBg {
     color: aliceblue;
     background-color: rgb(240, 77, 54);
     border: rgb(255, 240, 240) 4px dotted;
     font-family: Calibri;
+    text-decoration: underline;
     text-align: center;
 }
 
-.blueBorder {
+.blueBg {
     background: rgb(233, 255, 251);
     border: rgb(66, 170, 255) 4px double;
     border-radius: 20px;
-}
-
-.fontFam {
-    font-family: 'Trebuchet MS';
     font-style: italic;
 }
 
-.underline {
-    text-decoration: underline;
+.hexagonBg {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm8YLvhm2i4MhhszUEl2i-vuVirbCdXa2vWg&s);
+    border: rgb(240, 77, 54) 4px double;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS';
+}
+
+.ridgeBorder {
+    background-color: rgb(85, 78, 106);
+    border: rgba(203, 115, 60, 0.82) 10px ridge;
+    margin: auto;
+    width: 300px;
+    height: 270x;
+    text-align: center;
 }
 
 span {
@@ -30,11 +39,12 @@ span {
 }
 
 body {
-    background: url(https://static.vecteezy.com/system/resources/previews/003/478/190/original/seamless-pattern-of-silver-snowflakes-vector.jpg);
+    background: url(https://static.vecteezy.com/system/resources/previews/004/560/490/non_2x/christmas-repeat-pattern-snowflake-repeat-pattern-on-white-background-hand-drawn-repeat-pattern-for-textile-gift-wrapper-fabric-web-backdrop-and-packaging-free-vector.jpg);
 }
 
 h2 {
-    color: rgb(62, 152, 230);
+    color: rgb(255, 255, 255);
+    background-color: rgb(240, 77, 54);
 }
 
 h3 {
@@ -43,6 +53,7 @@ h3 {
 
 p {
     color: rgb(227, 80, 60);
+    background-color: white;
 }
 
 ol {
