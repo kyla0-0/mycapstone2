@@ -9,16 +9,20 @@
 
 .blueBg {
     background: rgb(233, 255, 251);
+    font-style: italic;
     border: rgb(66, 170, 255) 4px double;
     border-radius: 20px;
-    font-style: italic;
+    margin: 10px;
+    padding: 25px;
 }
 
 .hexagonBg {
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm8YLvhm2i4MhhszUEl2i-vuVirbCdXa2vWg&s);
+    font-family: 'Trebuchet MS';
     border: rgb(240, 77, 54) 4px double;
     border-radius: 10px;
-    font-family: 'Trebuchet MS';
+    margin: 25px;
+    padding: 15px;
 }
 
 .ridgeBorder {
@@ -32,10 +36,12 @@
 
 span {
     background: rgb(255, 247, 0);
+    font-size: 20px;
 }
 
 #fade {
     opacity: 50%;
+    font-size: 14px;
 }
 
 body {
@@ -45,6 +51,7 @@ body {
 h2 {
     color: rgb(255, 255, 255);
     background-color: rgb(240, 77, 54);
+    font-size: 29px;
 }
 
 h3 {
