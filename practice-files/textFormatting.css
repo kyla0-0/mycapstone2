@@ -1,0 +1,41 @@
+body {
+    background: black;
+    color: bisque;
+    font-family: monospace;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+}
+
+#bluediv {
+    background: cyan;
+    position: relative;
+    top: 100px;
+    left: 200px;
+    bottom: auto;
+    right: auto;
+}
+
+#reddiv {
+    background: red;
+}
+
+#outerdiv {
+    background: green;
+    padding: 25px;
+    margin: 50px;
+    width: 500px;
+    height: 200px;
+}
+
+#innerdiv {
+    background: yellow;
+    margin: auto;
+    padding: 50px;
+}
