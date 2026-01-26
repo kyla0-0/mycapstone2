@@ -1,0 +1,57 @@
+body {
+    background: yellow;
+}
+
+.eye1 {
+    background: white;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 30px;
+    left: 30px;
+}
+
+.eye2 {
+    background: white;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 30px;
+    left: 245px;
+}
+
+.pupil1 {
+    background: black;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 60px;
+    left: 60px;
+}
+
+.pupil2 {
+    background: black;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 60px;
+    left: 275px;
+}
+
+.mouth {
+    background: black;
+    position: absolute;
+    width: 450px;
+    height: 310px;
+    top: 260px;
+    left: 30px;
+}
+
+.teeth {
+    background: white;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 290px;
+    left: 50px;
+}
