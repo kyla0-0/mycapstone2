@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(237, 237, 206);
+    font-family: Calibri;
+    padding: 20px;
+}
+
+.heading {
+    color: rgb(41, 99, 116);
+    border: 4px dotted rgb(12, 44, 85);
+    padding: 10px;
+}
+
+.subheading {
+    border: 2px dashed rgb(64, 217, 255);
+    color: rgb(98, 159, 173);
+    text-decoration: underline;;
+    display: inline-block;
+    padding: 5px;
+}
+
+.profile-img {
+    width: 200px;
+    border: 5px double green;
+    border-radius: 20px;
+}
